@@ -1,6 +1,6 @@
-CREATE PROCEDURE HumanResources.uspGetEmployeesTest2   
-    @LastName nvarchar(50),   
-    @FirstName nvarchar(50)   
+CREATE PROCEDURE [HumanResources].[uspGetEmployeesTest2]   
+    @LastName nvarchar(60),   
+    @FirstName nvarchar(60)   
 AS   
 
     SET NOCOUNT ON;  
