@@ -9,7 +9,8 @@ CREATE TABLE [dbo].[TestTable](
 	[col4] [nchar](10) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
 	[col8] [nchar](10) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
 	[col9] [nchar](10) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
-	[col10] [nchar](10) COLLATE SQL_Latin1_General_CP1_CI_AS NULL
+	[col10] [nchar](10) COLLATE SQL_Latin1_General_CP1_CI_AS NULL,
+	[col11] [nchar](10) COLLATE SQL_Latin1_General_CP1_CI_AS NULL
 )
 
 GO
